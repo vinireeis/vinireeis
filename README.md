@@ -56,13 +56,20 @@
 <summary><strong>🚀 Tech Stack</strong></summary>
 <br>
 
-<h4>Languages & Frameworks</h4>
+<h4>Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+</p>
+
+<h4>Frameworks & Libraries</h4>
+<p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Chalice-8F79F5?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 <h4>Databases</h4>
@@ -71,25 +78,47 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
+  <img src="https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 </p>
 
 <h4>Cloud & Messaging</h4>
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=for-the-badge&logo=amazon-sqs&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Fission-00BFFF?style=for-the-badge&logo=kubernetes&logoColor=white">
 </p>
 
-<h4>Architecture & Practices</h4>
+<h4>Testing & Quality</h4>
 <p>
-  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/CQRS-000000?style=for-the-badge&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/SOLID-000000?style=for-the-badge&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white">
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white">
+  <img src="https://img.shields.io/badge/Coverage-83CD29?style=for-the-badge&logo=codecov&logoColor=white">
+</p>
+
+<h4>Tools & DevOps</h4>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+</p>
+
+<h4>Architecture & Patterns</h4>
+<p>
+  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Onion_Architecture-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CQRS-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SOLID-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Design_Patterns-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge">
 </p>
 
 </details>
@@ -100,9 +129,9 @@
 <summary><strong>📊 GitHub Stats</strong></summary>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinireeis&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=vinireeis&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinireeis&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=vinireeis&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 </p>
 </details>
 
