@@ -30,6 +30,7 @@
 >
 > Strong adherence to Clean Architecture, SOLID, and design patterns. Full-cycle feature ownership: technical discovery, development, testing, deployment, and production monitoring.
 >
+> 🧠 Atualmente explorando IA: agentes multimodais, engenharia de prompt e arquiteturas multi-agente — aplicando no dia adia para ganho de produtividade e aprendizado contínuo.
 > 🎓 Systems Analysis and Development · Faculdade Impacta de Tecnologia
 > 📍 São Paulo, SP · Remote
 
