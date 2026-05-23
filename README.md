@@ -167,8 +167,3 @@
 
 </details>
 
-<hr>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/vinireeis/count.svg">
-</p>
