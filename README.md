@@ -31,7 +31,9 @@
 > Strong adherence to Clean Architecture, SOLID, and design patterns. Full-cycle feature ownership: technical discovery, development, testing, deployment, and production monitoring.
 >
 > 🧠 Currently exploring AI: multimodal agents, prompt engineering, and multi-agent architectures — applying them daily for productivity gains and continuous learning.
+>
 > 🎓 Systems Analysis and Development · Faculdade Impacta de Tecnologia
+>
 > 📍 São Paulo, SP · Remote
 
 </details>
@@ -133,7 +135,6 @@
 <p>
   <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
   <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/Multi_Agent-000000?style=for-the-badge">
 </p>
@@ -146,8 +147,6 @@
 <summary><strong>📊 GitHub Stats</strong></summary>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=vinireeis&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false">
-  <br>
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=vinireeis&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 </p>
 </details>
