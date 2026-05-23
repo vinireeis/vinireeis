@@ -93,6 +93,13 @@
   <img src="https://img.shields.io/badge/Fission-00BFFF?style=for-the-badge&logo=kubernetes&logoColor=white">
 </p>
 
+<h4>Observability & Monitoring</h4>
+<p>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white">
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white">
+</p>
+
 <h4>Testing & Quality</h4>
 <p>
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
