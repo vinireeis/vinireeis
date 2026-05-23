@@ -5,7 +5,7 @@
 </h2>
 
 <h3 align="center">
-  Desenvolvedor Backend · Python, FastAPI, AWS, Kafka & Microserviços
+  Backend Developer · Python, FastAPI, AWS, Kafka & Microservices
 </h3>
 
 <p align="center">
@@ -30,7 +30,7 @@
 >
 > Strong adherence to Clean Architecture, SOLID, and design patterns. Full-cycle feature ownership: technical discovery, development, testing, deployment, and production monitoring.
 >
-> 🧠 Atualmente explorando IA: agentes multimodais, engenharia de prompt e arquiteturas multi-agente — aplicando no dia adia para ganho de produtividade e aprendizado contínuo.
+> 🧠 Currently exploring AI: multimodal agents, prompt engineering, and multi-agent architectures — applying them daily for productivity gains and continuous learning.
 > 🎓 Systems Analysis and Development · Faculdade Impacta de Tecnologia
 > 📍 São Paulo, SP · Remote
 
@@ -99,13 +99,13 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white">
   <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white">
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white">
 </p>
 
 <h4>Testing & Quality</h4>
 <p>
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
   <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white">
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white">
   <img src="https://img.shields.io/badge/Coverage-83CD29?style=for-the-badge&logo=codecov&logoColor=white">
 </p>
 
@@ -127,6 +127,15 @@
   <img src="https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/Design_Patterns-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge">
+</p>
+
+<h4>AI & Tools</h4>
+<p>
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Multi_Agent-000000?style=for-the-badge">
 </p>
 
 </details>
